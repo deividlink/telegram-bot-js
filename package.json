@@ -1,0 +1,22 @@
+{
+  "name": "nibiru_bot",
+  "version": "1.0.0",
+  "description": "bot teste para o telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "teste"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deividlink/projetobottelegram.git"
+  },
+  "author": "Deivid kleiton de lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deividlink/projetobottelegram/issues"
+  },
+  "homepage": "https://github.com/deividlink/projetobottelegram/#readme",
+  "dependencies": {
+    "telegram-node-bot": "^4.0.5"
+  }
+}
